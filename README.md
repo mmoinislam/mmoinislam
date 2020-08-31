@@ -25,8 +25,6 @@ Here are some ideas to get to know me well:
 [Twitter - mmoinulislam](https://twitter.com/mmoinulislam)
 [Email-Outlook](mislamohi@outlook.com)
 [Instagram- M Islam Ohi](https://www.instagram.com/mislamohi/)
-
-<br />
 [Github-mmoinislam](https://github.com/mmoinislam)
 [LinkedIn - Moin Islam](https://www.linkedin.com/in/moin-islam-14375615b)
 [Skype - Moin](https://join.skype.com/invite/qozrPLZbqdKK)
