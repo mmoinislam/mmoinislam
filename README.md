@@ -22,10 +22,10 @@ Here are some ideas to get to know me well:
 
 ### Connect with me:
 
-[Twitter - mmoinulislam](https://twitter.com/mmoinulislam)
+-[Twitter - mmoinulislam](https://twitter.com/mmoinulislam)
 [Email-Outlook](mislamohi@outlook.com)
 [Instagram- M Islam Ohi](https://www.instagram.com/mislamohi/)
-[Github-mmoinislam](https://github.com/mmoinislam)
+-[Github-mmoinislam](https://github.com/mmoinislam)
 [LinkedIn - Moin Islam](https://www.linkedin.com/in/moin-islam-14375615b)
 [Skype - Moin](https://join.skype.com/invite/qozrPLZbqdKK)
 <br />
