@@ -16,13 +16,13 @@ Here are some ideas to get to know me well:
 - 🤔 I’m looking for help with data science .
 - 💬 Ask me about web development & python.
 - 📫 How to reach me: Send me an email.
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I love to have fun with my friends draw and play football, basket ball.
 
 ### Connect with me:
 
-[Twitter - mmoinulislam](https://twitter.com/mmoinulislam)
+[Twitter - mislamohi](https://twitter.com/mislamohi)
 [Email-Outlook](mislamohi@outlook.com)
 [Instagram- M Islam Ohi](https://www.instagram.com/mislamohi/)
 [Github-mmoinislam](https://github.com/mmoinislam)
@@ -34,10 +34,11 @@ Here are some ideas to get to know me well:
 
  - C language
  - Python
+ - Django
  - Java oop
- - Dart(flutter)
  - SQL
  - HTML
  - CSS(Bootstrap)
  - php
  - Microsoft Office
+ - Power Bi
